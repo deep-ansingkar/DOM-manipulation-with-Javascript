@@ -24,3 +24,5 @@ By combining these techniques, you can interact with the DOM, manipulate its ele
 - [**Answers Folder**](https://github.com/deep-ansingkar/DOM-manipulation-with-Javascript/tree/main/Solutins%20of%20the%20Assignment): Contains files with answers to the questions. All the answers are in the same JavaScript file.
 
 Feel free to explore the questions and answers in the respective folders to enhance your understanding of DOM manipulation with JavaScript.
+
+Thankyou!!..
