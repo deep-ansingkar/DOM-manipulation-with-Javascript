@@ -2,11 +2,11 @@
 
 In this Markdown code, I will explain the concept of DOM manipulation with JavaScript.
 
-## What is the DOM?
+## What is the DOM ?
 
 The DOM (Document Object Model) is a programming interface for HTML and XML documents. It represents the structure of a web page as a hierarchical tree-like structure, where each element in the document is represented as a node in the tree. With JavaScript, you can manipulate these nodes to dynamically modify the content and appearance of a web page.
 
-## How is DOM manipulation done?
+## How is DOM manipulation done ?
 
 1. **Accessing Elements**: You can use JavaScript methods like `getElementById`, `getElementsByClassName`, `getElementsByTagName`, or `querySelector` to select specific elements in the DOM. These methods return references to the selected elements, allowing you to work with them.
 
